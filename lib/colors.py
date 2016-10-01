@@ -97,7 +97,7 @@ cl      = clear
 
 import random as rand
 def random_color():
-    return rand.choice([yellow, orange, red, magenta, violet, blue, cyan, green])
+    return rand.choice([yellow, orange, red, magenta, violet, blue, cyan, green,base3])
 rc = random_color
 random = random_color
 
