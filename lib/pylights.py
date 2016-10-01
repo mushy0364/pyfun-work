@@ -31,6 +31,17 @@ c  \::./
 c   '='  
 '''
 
+LOGO = '''
+           [0;31m        __   .__.__            __          __
+           [0;31m  _____|  | _|__|  |   _______/  |______  |  | __
+           [0;31m /  ___/  |/ /  |  |  /  ___/\   __\__  \ |  |/ /
+           [0;31m \___ \|    <|  |  |__\___ \  |  |  / __ \|    <
+           [0;31m/____  >__|_ \__|____/____  > |__| (____  /__|_ \[1;37m_______[0m
+           [0;31m     \/     \/            \/            \/     \/[1;37m______/[0m
+                                        [1;37mCoding Arts[0m
+
+'''
+
 def join_ascii(join,sep=""):
     joined = ""
     join = [LEFT] + join
@@ -47,8 +58,8 @@ def join_ascii(join,sep=""):
 
 
 class Bulb():
-    base_color = c.base00
-    wire_color = c.base03
+    base_color = c.base01
+    wire_color = c.base01
 
     def __init__(self,color=c.base00):
         self.text = BULB
@@ -83,13 +94,14 @@ class Set(list):
     def update(self):
         print(c.clear)
         print(join_ascii(self) + c.reset)
+        print(LOGO.lstrip('\n'))
 
     def demo(self):
         try: 
             while True:
                 self.randomize()
                 self.update()
-                time.sleep(0.25)
+                time.sleep(0.5)
         except KeyboardInterrupt:
             exit()
 

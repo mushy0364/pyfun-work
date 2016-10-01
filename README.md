@@ -41,11 +41,13 @@ Mark off as completed with an `x` inside the `-[ ]`:
 
 17. - [ ] [MyLights](lib/mylights.py)
 
-18. - [ ] [Arena](arena)
+18. - [ ] [Guess](guess)
 
-19. - [ ] [Battleship](battleship)
+19. - [ ] [Arena](arena)
 
-20. - [ ] [PokeAPI](pokeapi)
+20. - [ ] [Battleship](battleship)
+
+21. - [ ] [PokeAPI](pokeapi)
 
 22. - [ ] [Story Engine](story)
  
