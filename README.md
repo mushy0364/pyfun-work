@@ -49,7 +49,7 @@ Mark off as completed with an `x` inside the `-[ ]`:
 
 21. - [ ] [PokeAPI](pokeapi)
 
-22. - [ ] [Story Engine](story)
+22. - [ ] [Story](story)
  
 ---
 [![home](/assets/home-bw.png)](/README.md)
