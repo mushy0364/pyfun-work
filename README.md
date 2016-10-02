@@ -1,8 +1,11 @@
-# [Fundamentals in Python](http://pyfun.skilstak.io)
+# [Fundamentals in Python (Workbook Repo)](http://pyfun.skilstak.io)
 
 This repo is where you do your work and you can communicate about
-it by [opening issues](#1) just like you would to work on a
-professional project.
+it by opening [issues][] just like you would to work on a
+professional project. Clicking on the title will always take you to
+the textbook repo.
+
+[issues]: https://github.com/skilstak/pyfun-work/issues
 
 ## Projects
 
