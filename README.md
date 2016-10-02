@@ -1,4 +1,4 @@
-# [Fundamentals in Python (Workbook Repo)](http://pyfun.skilstak.io)
+# [Fundamentals in Python (Work)](http://pyfun.skilstak.io)
 
 This repo is where you do your work and you can communicate about
 it by opening [issues][] just like you would to work on a
