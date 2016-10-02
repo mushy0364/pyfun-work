@@ -1,7 +1,8 @@
 # [Fundamentals in Python](http://pyfun.skilstak.io)
 
-This private repo is where you do your work and you and your
-instructor can communicate about it.
+This repo is where you do your work and you can communicate about
+it by [opening issues](issues) just like you would to work on a
+professional project.
 
 ## Projects
 
