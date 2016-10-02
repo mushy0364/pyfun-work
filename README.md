@@ -1,7 +1,7 @@
 # [Fundamentals in Python](http://pyfun.skilstak.io)
 
 This repo is where you do your work and you can communicate about
-it by [opening issues](issues) just like you would to work on a
+it by [opening issues](/issues) just like you would to work on a
 professional project.
 
 ## Projects
