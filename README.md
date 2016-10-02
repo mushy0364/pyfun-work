@@ -5,7 +5,10 @@ instructor can communicate about it.
 
 ## Projects
 
-Mark off as completed with an `x` inside the `-[ ]`:
+Create a file or directory for each project below. Make sure the
+name matches the link so clicking on the project titles will open
+it in GitHub. When completed mark an `x` inside the `-[ ]` signaling
+to your instructor to check it:
 
 1. - [ ] [Hello World!](hello)
 
