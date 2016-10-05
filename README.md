@@ -14,7 +14,7 @@
 >  starter workbook or the textbook (click title) please open
 >  issues on them suggesting corrections.
 
-## Table of Content
+## Table of Contents
 
 Create a file or directory for each below. Make sure the name matches the
 link so clicking on the project titles will open it in GitHub. When
