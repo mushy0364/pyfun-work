@@ -1,4 +1,4 @@
-'''Colorful holiday lights for coding loops of all kinds'''
+'''Colorful holiday lights for learning to code loops of all kinds'''
 
 import colors as c
 import time
@@ -91,10 +91,16 @@ class Set(list):
         for i in self:
             i.color = c.random()
 
-    def update(self):
-        print(c.clear)
-        print(join_ascii(self) + c.reset)
-        print(LOGO.lstrip('\n'))
+    def update(self,sleep=None):
+        try: 
+            print(c.clear)
+            print(join_ascii(self) + c.reset)
+            print(LOGO.lstrip('\n'))
+            if sleep:
+                time.sleep(sleep)
+        except KeyboardInterrupt:
+            exit()
+
 
     def demo(self):
         try: 

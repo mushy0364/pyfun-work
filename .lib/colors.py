@@ -98,6 +98,7 @@ cl      = clear
 import random as rand
 def random_color():
     return rand.choice([yellow, orange, red, magenta, violet, blue, cyan, green,base3])
+
 rc = random_color
 random = random_color
 
@@ -112,12 +113,6 @@ def multi(text):
     for char in text:
         buf += rc() + char + x
     return buf
-
-def clear_screen():
-    """(Deprecated) Clears the screen"""
-    print(clear,end='')
-cs = clear_screen
-clears = clear_screen
 
 if __name__ == '__main__':
     print(clear)
