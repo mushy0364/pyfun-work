@@ -10,9 +10,9 @@
 >  and assignments you can create an issue on your workbook and your
 >  instructor will see it. You can also ask in the course chat.
 > 
->  If you catch spelling issues or other errors with either this textbook
->  or the starter workbook (click title) please open issues on them
->  suggesting corrections.
+>  If you catch spelling issues or other errors with either this 
+>  starter workbook or the textbook (click title) please open
+>  issues on them suggesting corrections.
 
 ## Projects
 
