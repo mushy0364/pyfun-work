@@ -1,11 +1,18 @@
 # [Fundamentals in Python (Work)](http://pyfun.skilstak.io)
 
-This repo is where you do your work and you can communicate about
-it by opening [issues][] just like you would to work on a
-professional project. Clicking on the title will always take you to
-the textbook repo.
-
-[issues]: https://github.com/skilstak/pyfun-work/issues
+>  This *work*book goes with a *text*book. You should have
+>  asked your instructor for an invite or found it in your course
+>  chat room. When you accept the invite GitHub Classrooms will
+>  create your personal, private workbook by copying the workbook
+>  starter repo.
+> 
+>  For questions about anything in the course including your projects
+>  and assignments you can create an issue on your workbook and your
+>  instructor will see it. You can also ask in the course chat.
+> 
+>  If you catch spelling issues or other errors with either this textbook
+>  or the starter workbook (click title) please open issues on them
+>  suggesting corrections.
 
 ## Projects
 
