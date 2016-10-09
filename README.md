@@ -1,22 +1,8 @@
 # [Fundamentals in Python (Work)](http://pyfun.skilstak.io)
 
->  This *work*book goes with a *text*book. You should have
->  asked your instructor for an invite or found it in your course
->  chat room. When you accept the invite GitHub Classrooms will
->  create your personal, private workbook by copying the workbook
->  starter repo.
-> 
->  For questions about anything in the course including your projects
->  and assignments you can create an issue on your workbook and your
->  instructor will see it. You can also ask in the course chat.
-> 
->  If you catch spelling issues or other errors with either this 
->  starter workbook or the textbook (click title) please open
->  issues on them suggesting corrections.
-
 Crossfit, Tai Chi, yoga, dance, baseball, skateboarding, Rubic’s
 Cube and coding all have something in common. They all take practice,
-timed practice. Complete these exercises first to understand them.
+***timed practice***. Complete these exercises first to understand them.
 Then do them again while being timed. Then do it again, over and
 over. As your time improves record it here under *Best Time.*
 
