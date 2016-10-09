@@ -4,7 +4,12 @@ Crossfit, Tai Chi, yoga, dance, baseball, skateboarding, Rubic’s
 Cube and coding all have something in common. They all take practice,
 ***timed practice***. Complete these exercises first to understand them.
 Then do them again while being timed. Then do it again, over and
-over. As your time improves record it here under *Best Time.*
+over. Not only will this burn the concepts and syntax into your brain
+and fingers, but it will also improve your typing speed where it
+matters—the hard symbols to type. Make sure you do your
+practice using `vim` like you will have to on the [certification
+exam](http://certify.skilstak.io). As your time improves record it
+here under *Best Time.*
 
 |  Best Time | Exercise |
 | :--------: | -------- |
