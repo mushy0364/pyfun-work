@@ -21,28 +21,28 @@ link so clicking on the project titles will open it in GitHub. When
 completed mark an `x` inside the `-[ ]` signaling to your instructor
 to check it:
 
-- [ ] [Hello World!](hello)
-- [ ] [Hi There!](hi)
-- [ ] [Nyan, Nyan, STOP!](nyan)
-- [ ] [Do You Like Waffles?](waffles)
-- [ ] [Badgers, Badgers, Badgers](badgers)
-- [ ] [Magic Eightball](eightball)
-- [ ] [Bridge Keeper](bridge)
-- [ ] [Rock, Paper, Scissors](rps)
-- [ ] [Arrrgs](arrrgs)
-- [ ] [Dice Roll](roll)
-- [ ] [Multiplication Tables](mtable)
-- [ ] [Mad Forms](madforms)
-- [ ] [Binary Counter](bincount)
-- [ ] [Character Generator](gen)
-- [ ] [Quiz Game](quiz)
-- [ ] [Lights](lights)
-- [ ] [MyLights](lib/mylights.py)
-- [ ] [Guess](guess)
-- [ ] [Arena](arena)
-- [ ] [Battleship](battleship)
-- [ ] [PokeAPI](pokeapi)
-- [ ] [Story](story)
+**[0:00]** [Hello World!](hello)<br>
+**[0:00]** [Hi There!](hi)<br>
+**[0:00]** [Nyan, Nyan, STOP!](nyan)<br>
+**[0:00]** [Do You Like Waffles?](waffles)<br>
+**[0:00]** [Badgers, Badgers, Badgers](badgers)<br>
+**[0:00]** [Magic Eightball](eightball)<br>
+**[0:00]** [Bridge Keeper](bridge)<br>
+**[0:00]** [Rock, Paper, Scissors](rps)<br>
+**[0:00]** [Arrrgs](arrrgs)<br>
+**[0:00]** [Dice Roll](roll)<br>
+**[0:00]** [Multiplication Tables](mtable)<br>
+**[0:00]** [Mad Forms](madforms)<br>
+**[0:00]** [Binary Counter](bincount)<br>
+**[0:00]** [Character Generator](gen)<br>
+**[0:00]** [Quiz Game](quiz)<br>
+**[0:00]** [Lights](lights)<br>
+**[0:00]** [MyLights](lib/mylights.py)<br>
+**[0:00]** [Guess](guess)<br>
+**[0:00]** [Arena](arena)<br>
+**[0:00]** [Battleship](battleship)<br>
+**[0:00]** [PokeAPI](pokeapi)<br>
+**[0:00]** [Story](story)<br>
  
 ---
 [![home](/.assets/home-bw.png)](/README.md)
