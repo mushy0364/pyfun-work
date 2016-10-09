@@ -14,8 +14,6 @@
 >  starter workbook or the textbook (click title) please open
 >  issues on them suggesting corrections.
 
-## Exercises
-
 Crossfit, Tai Chi, yoga, dance, baseball, skateboarding, Rubic’s
 Cube and coding all have something in common. They all take practice,
 timed practice. Complete these exercises first to understand them.
