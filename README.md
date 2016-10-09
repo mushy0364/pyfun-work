@@ -7,7 +7,7 @@ Then do them again while being timed. Then do it again, over and
 over. As your time improves record it here under *Best Time.*
 
 |  Best Time | Exercise |
-| ---------- | -------- |
+| :--------: | -------- |
 |    0:00    | [Hello World!](hello) |
 |    0:00    | [Hi There!](hi) |
 |    0:00    | [Nyan, Nyan, STOP!](nyan) |
